@@ -3,6 +3,14 @@
   white-space: pre;
 }
 
+.Justified {
+  white-space: pre;
+  text-align: center;
+  width: 100%;
+  font-size: 2rem;
+  overflow: scroll;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
